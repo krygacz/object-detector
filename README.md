@@ -1,6 +1,6 @@
 # Object Detector
 
-![](photo.png)
+[ ![Live Demo](https://img.youtube.com/vi/uskF1pitQ38/hqdefault.jpg)](https://www.youtube.com/watch?v=uskF1pitQ38)
 
 ## Description
 
